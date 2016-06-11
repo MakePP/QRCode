@@ -1,2 +1,7 @@
-# QRCode
-iOS QRCode Barcode Scan Generator
+# iOS QRCode
+### 提供iOS平台下，基于系统API封装二维码扫描功能。
+-
+1. 二维码扫描；
+2. 条形码扫描；
+3. 生成二维码；
+4. 生成条形码；
